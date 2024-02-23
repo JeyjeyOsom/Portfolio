@@ -1,11 +1,8 @@
-import "./App.css";
+// import "./App.css";
+import { BackgroundBoxesDemo } from "./components/BackGroundBoxes";
 
 function App() {
-  return (
-    <>
-      <div>GAGO KA??</div>
-    </>
-  );
+  return <BackgroundBoxesDemo />;
 }
 
 export default App;
